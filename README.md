@@ -356,8 +356,3 @@ This project demonstrates how artificial intelligence and cloud technologies can
 
 ---
 
-## Acknowledgements
-
-I would like to thank IBM for providing the cloud services, learning resources, and machine learning tools used in this project.
-
-I also acknowledge the AI-KOSH platform and publicly available PMGSY project data used for developing this machine learning classification system.
